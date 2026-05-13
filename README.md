@@ -202,7 +202,12 @@ along with prediction probabilities and confidence charts.
 ## 👨‍💻 Author
 
 Developed by **Sheikh Tauheed**  
-Internship Project – CSE (IoT & Cybersecurity)
+Internship Project – CSE(Iot, CS including BCT)
+
+
+**LinkedIn**: [Sheikh Tauheed](https://www.linkedin.com/in/sheikh-tauheed-82100026a/)
+
+**Github**: [Sheikh-13](https://github.com/Sheikh-13)
 
 ---
 
