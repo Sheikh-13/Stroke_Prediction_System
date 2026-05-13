@@ -165,6 +165,29 @@ along with prediction probabilities and confidence charts.
 
 ---
 
+## 📸 Snapshots
+
+<div align="center">
+
+###  **Input_Details**
+*Input Page*
+
+![Input_Page](stroke-snapshots/1.input_details.png)
+
+###  **Low-Risk Stroke**
+*When Prediction Result is Low*
+
+![Low_Risk](stroke-snapshots/2.Low_Risk.png)
+
+###  **High-Risk Stroke**
+*When Prediction Result is High*
+
+![High_Risk](stroke-snapshots/3.High_Risk.png)
+
+</div>
+
+---
+
 ## 🔮 Future Improvements
 
 - Add more machine learning models
